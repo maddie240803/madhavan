@@ -14,7 +14,7 @@ body{
 .container{
   width:100%;
   min-height:100vh;
-  background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.5)), url(../images/blend.jpg) center/cover fixed;
+  background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.5)), url(../images/u5.png) center/cover fixed;
   display:flex; flex-direction:column;
 }
 
